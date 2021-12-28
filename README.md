@@ -1,5 +1,8 @@
 # 🚀Backend Challenge - Google Sheets - Intellisense
 
+## Challenge 1 - https://github.com/lucasgcaldas/intellisense-1
+## Challenge 3 - https://github.com/lucasgcaldas/intellisense-3
+
 ### ⚔️ The Challenge
 
 Get the data from CSV File and exhibit the results visually, find consumers born between 1957 and 1967 who have a master's degree and who are married, the percentage of consumers found in relation to the total,
